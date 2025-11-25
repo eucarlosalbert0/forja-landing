@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "headline": "FORJA — O Protocolo Estoico de 30 Dias",
+    "subheadline": "Controle, força, serenidade e maestria forjados em 30 dias de disciplina silenciosa.",
+    "cta": "Entrar na Forja",
+    "background_concept": "P&B cinematográfico, luz dura, fumaça e textura de filme antigo, atmosfera Peaky Blinders"
+  },
+  "problem_section": {
+    "title": "Você sente o peso do descontrole",
+    "bullets": [
+      "Procrastinação que drena respeito próprio.",
+      "Mente dispersa, sempre reagindo ao caos.",
+      "Autossabotagem nos momentos críticos.",
+      "Promessas quebradas na calada da noite."],
+    "punchline": "Você não está em guerra com o mundo. Está em guerra consigo mesmo."
+  },
+  "product_explainer": {
+    "title": "FORJA é um protocolo estoico de 30 dias",
+    "description": "Não é teoria. É protocolo. Um roteiro direto para construir controle, força, serenidade e maestria com exercícios diários e revisões práticas.",
+    "modules_overview": [
+      "Controle: dominar o que depende de você.",
+      "Força: transformar obstáculos em potência.",
+      "Serenidade: silêncio interno diante do ruído.",
+      "Maestria: propósito e ação alinhados." ]
+  },
+  "modules": [
+    {
+      "title": "MÓDULO 1 — CONTROLE (Dias 1–7)",
+      "description": "Estancar a reatividade e assumir o que é seu.",
+      "lessons": [
+        "A Dicotomia do Controle",
+        "O Espaço entre Estímulo e Resposta",
+        "Visualização Negativa",
+        "O Poder da Linguagem Interna",
+        "Neutralizando a Irritação",
+        "O Olhar de Cima",
+        "Revisão: Controle na Prática"
+      ]
+    },
+    {
+      "title": "MÓDULO 2 — FORÇA (Dias 8–14)",
+      "description": "Converter resistência em músculo moral.",
+      "lessons": [
+        "O Obstáculo é o Caminho",
+        "Resistência ao Conforto",
+        "Amor Fati – amar o que acontece",
+        "Disciplina vs Motivação",
+        "Treinando a Paciência",
+        "Desapego Material",
+        "Revisão: Força na prática"
+      ]
+    },
+    {
+      "title": "MÓDULO 3 — SERENIDADE (Dias 15–21)",
+      "description": "Silenciar o ruído interno e manter presença.",
+      "lessons": [
+        "Memento Mori",
+        "A Inveja e a Comparação",
+        "Perdão Estoico",
+        "Silêncio como Força",
+        "Autossuficiência Interna",
+        "O Valor do Presente",
+        "Revisão: Serenidade em Ação"
+      ]
+    },
+    {
+      "title": "MÓDULO 4 — MAESTRIA (Dias 22–30)",
+      "description": "Alinhar destino, propósito e execução diária.",
+      "lessons": [
+        "O Propósito Estoico",
+        "O Papel do Destino",
+        "Amor Fati Avançado",
+        "A Felicidade Estoica",
+        "O Diário Estoico Avançado",
+        "Desapego Radical",
+        "O Daemon Interior",
+        "Sabedoria para o Caos Moderno",
+        "Síntese Final: O Estoico em Ação"
+      ]
+    }
+  ],
+  "benefits": {
+    "title": "O que você ganha",
+    "items": [
+      "Controle emocional sob pressão.",
+      "Clareza para decidir sem ruído.",
+      "Disciplina que não depende de humor.",
+      "Foco que ignora distrações.",
+      "Força interna inabalável." ]
+  },
+  "bonus": {
+    "title": "Manual Estoico — Exercícios",
+    "items": [
+      "Diagramas da dicotomia do controle",
+      "Linha do tempo da paciência",
+      "Exercício #1",
+      "Exercício #2",
+      "Exercício #3",
+      "Exercício #4" ],
+    "description": "Ferramentas diretas para materializar o protocolo no papel e no dia." },
+  "target_audience": {
+    "title": "Para quem é",
+    "description": "Homens e mulheres que buscam disciplina, clareza, foco e força mental sem ornamentos." },
+  "offer": {
+    "price": "R$39",
+    "description": "Acesso completo ao protocolo de 30 dias. Direto, prático, sem promessas vazias." },
+  "guarantee": {
+    "title": "Garantia de 7 dias",
+    "description": "Teste. Se não sentir a Forja trabalhando, peça o reembolso. Sem conversa fiada." },
+  "faq": [
+    {"question": "Como recebo o protocolo?", "answer": "Acesso imediato em área exclusiva com todo o material em P&B minimalista."},
+    {"question": "Quanto tempo por dia?", "answer": "Entre 15 e 25 minutos diários para leitura e execução dos exercícios."},
+    {"question": "E se eu perder um dia?", "answer": "Retome no ponto em que parou. O progresso é seu."},
+    {"question": "Preciso de experiência prévia em estoicismo?", "answer": "Não. O protocolo guia desde o zero até a maestria prática."},
+    {"question": "Posso acessar pelo celular?", "answer": "Sim. O layout é limpo e responsivo."},
+    {"question": "Existe comunidade?", "answer": "O foco é prática individual. Você recebe instruções claras e silenciosas."},
+    {"question": "Por que apenas R$39?", "answer": "Preço simbólico para garantir compromisso. Valor real está na disciplina que você aplica."},
+    {"question": "Há suporte?", "answer": "Suporte por e-mail para dúvidas objetivas sobre o protocolo."}
+  ],
+  "final_cta": {
+    "text": "Se você quer disciplina, mergulhe. Se não, feche esta página.",
+    "cta": "Entrar na Forja Agora" },
+  "html_css_version": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>FORJA — Protocolo Estoico</title>\n<style>\n:root{--bg:#0a0a0a;--ink:#f5f5f5;--muted:#b3b3b3;--accent:#dcdcdc;--grain:url('data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"200\"><filter id=\"n\"><feTurbulence type=\"fractalNoise\" baseFrequency=\"0.65\" numOctaves=\"2\" stitchTiles=\"stitch\"/></filter><rect width=\"100%\" height=\"100%\" filter=\"url(%23n)\" opacity=\"0.25\"/></svg>');}body{margin:0;font-family:'Inter',sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;}h1,h2,h3,h4{font-family:'Playfair Display',serif;letter-spacing:0.02em;text-transform:uppercase;}a.button{display:inline-block;padding:14px 26px;border:1px solid var(--ink);color:var(--ink);text-decoration:none;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;background:linear-gradient(135deg,#111,#1b1b1b);transition:opacity .2s;}.button:hover{opacity:0.7;}section{padding:70px 7vw;position:relative;overflow:hidden;}section::before{content:'';position:absolute;inset:0;background:var(--grain);mix-blend-mode:soft-light;pointer-events:none;} .grid{display:grid;gap:24px;} .hero{min-height:80vh;display:grid;align-content:center;background:radial-gradient(circle at 20% 20%,#1a1a1a 0,#0a0a0a 45%);} .hero h1{font-size:clamp(42px,5vw,72px);line-height:1.05;margin:0 0 16px;} .hero p{max-width:720px;font-size:18px;color:var(--muted);} .tag{display:inline-block;padding:6px 12px;border:1px solid var(--muted);color:var(--muted);letter-spacing:0.1em;font-size:12px;text-transform:uppercase;margin-bottom:14px;} .section-title{font-size:28px;margin-bottom:8px;} .muted{color:var(--muted);} .list{list-style:none;padding:0;margin:12px 0;display:grid;gap:8px;} .card{border:1px solid #1f1f1f;padding:20px;background:linear-gradient(180deg,#101010,#080808);} .faq-item{border-bottom:1px solid #1f1f1f;padding:16px 0;} .faq-item h4{margin:0 0 6px;font-size:16px;} .faq-item p{margin:0;color:var(--muted);} .module h3{margin:0 0 8px;} .module p{margin:0 0 12px;color:var(--muted);} .module ul{padding-left:18px;margin:0;display:grid;gap:6px;} .offer{display:flex;flex-wrap:wrap;align-items:center;gap:20px;} .price{font-size:42px;font-family:'Playfair Display',serif;} .guarantee{border:1px solid #1f1f1f;padding:18px;background:#0d0d0d;} @media(max-width:768px){section{padding:54px 6vw;} .offer{flex-direction:column;align-items:flex-start;} .hero{padding-top:60px;padding-bottom:80px;}}\n</style>\n</head>\n<body>\n<section class=\"hero\">\n  <div class=\"tag\">P&B Cinematográfico</div>\n  <h1>FORJA — O Protocolo Estoico de 30 Dias</h1>\n  <p>Controle, força, serenidade e maestria forjados em 30 dias de disciplina silenciosa. Não é inspiração. É prática diária.</p>\n  <a class=\"button\" href=\"#oferta\">Entrar na Forja</a>\n</section>\n<section id=\"problema\">\n  <h2 class=\"section-title\">Você sente o peso do descontrole</h2>\n  <ul class=\"list\">\n    <li>Procrastinação que drena respeito próprio.</li>\n    <li>Mente dispersa, sempre reagindo ao caos.</li>\n    <li>Autossabotagem nos momentos críticos.</li>\n    <li>Promessas quebradas na calada da noite.</li>\n  </ul>\n  <p class=\"muted\">Você não está em guerra com o mundo. Está em guerra consigo mesmo.</p>\n</section>\n<section id=\"produto\">\n  <h2 class=\"section-title\">FORJA é um protocolo estoico de 30 dias</h2>\n  <p class=\"muted\">Não é teoria. É protocolo. Um roteiro direto para construir controle, força, serenidade e maestria com exercícios diários e revisões práticas.</p>\n  <div class=\"grid\" style=\"grid-template-columns:repeat(auto-fit,minmax(220px,1fr));\">\n    <div class=\"card\">Controle: dominar o que depende de você.</div>\n    <div class=\"card\">Força: transformar obstáculos em potência.</div>\n    <div class=\"card\">Serenidade: silêncio interno diante do ruído.</div>\n    <div class=\"card\">Maestria: propósito e ação alinhados.</div>\n  </div>\n</section>\n<section id=\"modulos\">\n  <h2 class=\"section-title\">Os 4 Módulos</h2>\n  <div class=\"grid\" style=\"grid-template-columns:repeat(auto-fit,minmax(260px,1fr));\">\n    <div class=\"card module\">\n      <h3>MÓDULO 1 — CONTROLE (Dias 1–7)</h3>\n      <p>Estancar a reatividade e assumir o que é seu.</p>\n      <ul>\n        <li>A Dicotomia do Controle</li>\n        <li>O Espaço entre Estímulo e Resposta</li>\n        <li>Visualização Negativa</li>\n        <li>O Poder da Linguagem Interna</li>\n        <li>Neutralizando a Irritação</li>\n        <li>O Olhar de Cima</li>\n        <li>Revisão: Controle na Prática</li>\n      </ul>\n    </div>\n    <div class=\"card module\">\n      <h3>MÓDULO 2 — FORÇA (Dias 8–14)</h3>\n      <p>Converter resistência em músculo moral.</p>\n      <ul>\n        <li>O Obstáculo é o Caminho</li>\n        <li>Resistência ao Conforto</li>\n        <li>Amor Fati – amar o que acontece</li>\n        <li>Disciplina vs Motivação</li>\n        <li>Treinando a Paciência</li>\n        <li>Desapego Material</li>\n        <li>Revisão: Força na prática</li>\n      </ul>\n    </div>\n    <div class=\"card module\">\n      <h3>MÓDULO 3 — SERENIDADE (Dias 15–21)</h3>\n      <p>Silenciar o ruído interno e manter presença.</p>\n      <ul>\n        <li>Memento Mori</li>\n        <li>A Inveja e a Comparação</li>\n        <li>Perdão Estoico</li>\n        <li>Silêncio como Força</li>\n        <li>Autossuficiência Interna</li>\n        <li>O Valor do Presente</li>\n        <li>Revisão: Serenidade em Ação</li>\n      </ul>\n    </div>\n    <div class=\"card module\">\n      <h3>MÓDULO 4 — MAESTRIA (Dias 22–30)</h3>\n      <p>Alinhar destino, propósito e execução diária.</p>\n      <ul>\n        <li>O Propósito Estoico</li>\n        <li>O Papel do Destino</li>\n        <li>Amor Fati Avançado</li>\n        <li>A Felicidade Estoica</li>\n        <li>O Diário Estoico Avançado</li>\n        <li>Desapego Radical</li>\n        <li>O Daemon Interior</li>\n        <li>Sabedoria para o Caos Moderno</li>\n        <li>Síntese Final: O Estoico em Ação</li>\n      </ul>\n    </div>\n  </div>\n</section>\n<section id=\"beneficios\">\n  <h2 class=\"section-title\">O que você ganha</h2>\n  <div class=\"grid\" style=\"grid-template-columns:repeat(auto-fit,minmax(220px,1fr));\">\n    <div class=\"card\">Controle emocional sob pressão.</div>\n    <div class=\"card\">Clareza para decidir sem ruído.</div>\n    <div class=\"card\">Disciplina que não depende de humor.</div>\n    <div class=\"card\">Foco que ignora distrações.</div>\n    <div class=\"card\">Força interna inabalável.</div>\n  </div>\n</section>\n<section id=\"bonus\">\n  <h2 class=\"section-title\">Manual Estoico — Exercícios</h2>\n  <p class=\"muted\">Ferramentas diretas para materializar o protocolo no papel e no dia.</p>\n  <ul class=\"list\">\n    <li>Diagramas da dicotomia do controle</li>\n    <li>Linha do tempo da paciência</li>\n    <li>Exercício #1</li>\n    <li>Exercício #2</li>\n    <li>Exercício #3</li>\n    <li>Exercício #4</li>\n  </ul>\n</section>\n<section id=\"publico\">\n  <h2 class=\"section-title\">Para quem é</h2>\n  <p class=\"muted\">Homens e mulheres que buscam disciplina, clareza, foco e força mental sem ornamentos.</p>\n</section>\n<section id=\"oferta\">\n  <h2 class=\"section-title\">Oferta direta</h2>\n  <div class=\"offer\">\n    <div>\n      <div class=\"price\">R$39</div>\n      <p class=\"muted\">Acesso completo ao protocolo de 30 dias. Direto, prático, sem promessas vazias.</p>\n    </div>\n    <a class=\"button\" href=\"#cta\">Entrar na Forja</a>\n  </div>\n</section>\n<section id=\"garantia\">\n  <h2 class=\"section-title\">Garantia de 7 dias</h2>\n  <div class=\"guarantee\">\n    <p class=\"muted\">Teste. Se não sentir a Forja trabalhando, peça o reembolso. Sem conversa fiada.</p>\n  </div>\n</section>\n<section id=\"faq\">\n  <h2 class=\"section-title\">Perguntas frequentes</h2>\n  <div class=\"faq-item\">\n    <h4>Como recebo o protocolo?</h4><p>Acesso imediato em área exclusiva com todo o material em P&B minimalista.</p>\n  </div>\n  <div class=\"faq-item\">\n    <h4>Quanto tempo por dia?</h4><p>Entre 15 e 25 minutos diários para leitura e execução dos exercícios.</p>\n  </div>\n  <div class=\"faq-item\">\n    <h4>E se eu perder um dia?</h4><p>Retome no ponto em que parou. O progresso é seu.</p>\n  </div>\n  <div class=\"faq-item\">\n    <h4>Preciso de experiência prévia em estoicismo?</h4><p>Não. O protocolo guia desde o zero até a maestria prática.</p>\n  </div>\n  <div class=\"faq-item\">\n    <h4>Posso acessar pelo celular?</h4><p>Sim. O layout é limpo e responsivo.</p>\n  </div>\n  <div class=\"faq-item\">\n    <h4>Existe comunidade?</h4><p>O foco é prática individual. Você recebe instruções claras e silenciosas.</p>\n  </div>\n  <div class=\"faq-item\">\n    <h4>Por que apenas R$39?</h4><p>Preço simbólico para garantir compromisso. Valor real está na disciplina que você aplica.</p>\n  </div>\n  <div class=\"faq-item\">\n    <h4>Há suporte?</h4><p>Suporte por e-mail para dúvidas objetivas sobre o protocolo.</p>\n  </div>\n</section>\n<section id=\"cta\">\n  <h2 class=\"section-title\">Decida agora</h2>\n  <p class=\"muted\">Se você quer disciplina, mergulhe. Se não, feche esta página.</p>\n  <a class=\"button\" href=\"#oferta\">Entrar na Forja Agora</a>\n</section>\n</body>\n</html>",
+  "image_prompts": {
+    "hero": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, lone figure in long coat walking through smoke, hard light",
+    "problem_section": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, man sitting in dark room with scattered papers, chiaroscuro",
+    "product_explainer": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, table with leather notebook and fountain pen, minimal light",
+    "modules": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, four stone pillars fading into fog, cinematic",
+    "benefits": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, close-up of clenched hand over journal, strong contrast",
+    "bonus": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, spread of diagrams and stoic sketches on wooden table",
+    "target_audience": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, mixed group in coats under dim streetlamp",
+    "offer": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, bold price tag on metal plate, dramatic lighting",
+    "guarantee": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, firm handshake in shadow, cinematic",
+    "faq": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, archive room with files and soft light",
+    "final_cta": "black and white, old film texture, heavy grain, Peaky Blinders stoic vibe, doorway with bright light inviting forward"
+  }
+}
